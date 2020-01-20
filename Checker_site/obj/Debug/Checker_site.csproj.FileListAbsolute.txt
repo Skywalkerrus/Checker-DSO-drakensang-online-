@@ -1,0 +1,13 @@
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\bin\Debug\Checker_site.exe.config
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\bin\Debug\Checker_site.exe
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\bin\Debug\Checker_site.pdb
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\bin\Debug\WebDriver.dll
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\bin\Debug\WebDriver.xml
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.csprojAssemblyReference.cache
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.Form1.resources
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.Properties.Resources.resources
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.csproj.GenerateResource.cache
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.csproj.CoreCompileInputs.cache
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.csproj.CopyComplete
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.exe
+C:\Users\Skywalker\source\repos\Checker_site\Checker_site\obj\Debug\Checker_site.pdb
